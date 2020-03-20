@@ -208,8 +208,8 @@ For the fourth image
 | 0.	      			| Double curve 					 				|
 | 0.				    | Children crossing       	
 
-### (Optional) Visualizing the Neural Network (See Step 4 of the Ipython notebook for more details)
-#### 1. Discuss the visual output of your trained network's feature maps. What characteristics did the neural network use to make classifications?
+### Visualizing the Neural Network (See Step 4 of the Ipython notebook for more details)
+#### 1. We could not find boxing position with this features map and this CNN architecture.
 
 
 
